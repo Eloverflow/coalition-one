@@ -1,0 +1,3 @@
+interface TransactionData {
+    test: string
+}

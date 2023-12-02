@@ -1,0 +1,11 @@
+{
+  "name": "my-social-platform",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "socket.io": "^4.7.2"
+  }
+}
